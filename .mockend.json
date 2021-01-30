@@ -3,12 +3,11 @@
     "title": "string",
     "views": "int",
     "published": "boolean",
-    "createdAt": "date"
+    "createdAt": "date",
+    "comments": "Comment[]"
   },
-  "Monsters": {
-    "Name": "petor",
-    "lifes": "56",
-    "published": "true",
-    "createdAt": "date"
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
