@@ -4,5 +4,11 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Monsters": {
+    "Name": "petor",
+    "lifes": "56",
+    "published": "true",
+    "createdAt": "date"
   }
 }
